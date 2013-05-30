@@ -4,6 +4,8 @@ PES Tools
 This is a library for reading/writing several file formats for Pro Evolution Soccer (2008-2013) like KTMDL (3D), DPOW (2D).
 
 Dependencies:	- MiscUtils.dll (for BigEndian support - Xbox360/PS3)
-				- FreeImageNET.dll (for image manipulation)
-				
-				Both DLLs are available on the References folder
+	- FreeImageNET.dll (for image manipulation)
+	
+Both DLLs are available on the References folder
+
+The code is quite messy and it doesn't have comments. I have been working on it since the first PES Stadium Studio (2008) and it's not really well coded.
